@@ -21,8 +21,9 @@ public class operators {
 
         // bitwise operators
         System.out.println("a bitwise AND b: " + (a & b));
+        System.out.println("a bitwise OR b: " + (a | b));
         System.out.println("bitwise NOT b: " + (~b));
-        System.out.println("a bitwise OR b: " + (a ^ b));
+        System.out.println("a bitwise XOR b: " + (a ^ b));
         System.out.println("a left shift b: " + (a << b));
         System.out.println("a right shift b: " + (a >> b));
 

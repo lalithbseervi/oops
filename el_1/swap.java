@@ -1,4 +1,4 @@
-package el_2;
+package el_1;
 
 // Write a Java program to swap two numbers using a temporary variable
 // and appropriate data types.

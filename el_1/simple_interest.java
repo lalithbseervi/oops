@@ -1,4 +1,4 @@
-package el_2;
+package el_1;
 
 public class simple_interest {
     public static void main(String[] args) {

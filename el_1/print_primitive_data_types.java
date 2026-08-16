@@ -1,4 +1,4 @@
-package el_2;
+package el_1;
 
 public class print_primitive_data_types {
     public static void main(String[] args) {
