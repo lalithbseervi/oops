@@ -1,0 +1,18 @@
+package assignments.sept_7;
+
+import java.util.Scanner;
+
+public class add_scanner {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.err.print("Enter the first number: ");
+        int a = sc.nextInt();
+
+        System.err.print("Enter the second number: ");
+        int b = sc.nextInt();
+
+        int result = a + b;
+        System.out.println("Sum of " + a + " + " + b + " = " + result);
+    }
+}
