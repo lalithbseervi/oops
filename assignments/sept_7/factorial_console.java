@@ -6,7 +6,7 @@ public class factorial_console {
     public static void main(String[] args) {
         Console c = System.console();
 
-        System.err.print("Enter a positive number: ");
+        System.out.print("Enter a positive number: ");
         int a = Integer.parseInt(c.readLine());
         int fact = 1;
 

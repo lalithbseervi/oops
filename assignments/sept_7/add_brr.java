@@ -6,10 +6,10 @@ public class add_brr {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        System.err.print("Enter the first number: ");
+        System.out.print("Enter the first number: ");
         int a = Integer.parseInt(br.readLine());
 
-        System.err.print("Enter the second number: ");
+        System.out.print("Enter the second number: ");
         int b = Integer.parseInt(br.readLine());
 
         int result = a + b;

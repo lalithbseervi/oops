@@ -6,10 +6,10 @@ public class add_scanner {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.err.print("Enter the first number: ");
+        System.out.print("Enter the first number: ");
         int a = sc.nextInt();
 
-        System.err.print("Enter the second number: ");
+        System.out.print("Enter the second number: ");
         int b = sc.nextInt();
 
         int result = a + b;

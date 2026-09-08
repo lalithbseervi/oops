@@ -6,7 +6,7 @@ public class factorial_brr {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        System.err.print("Enter a positive number: ");
+        System.out.print("Enter a positive number: ");
         int a = Integer.parseInt(br.readLine());
         int fact = 1;
 
